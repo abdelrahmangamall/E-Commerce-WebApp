@@ -31,10 +31,9 @@ This project is a full-stack e-commerce web application built using the .NET fra
 
 ## Technologies Used
 - **Backend**: .NET Core, ASP.NET MVC, Entity Framework Core
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Razor Pages
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
 - **Database**: SQL Server
 - **Authentication**: ASP.NET Identity
-- **Payment Gateway**: Stripe/PayPal API
 - **Version Control**: Git/GitHub
 - **Hosting**: Azure/Heroku
 
