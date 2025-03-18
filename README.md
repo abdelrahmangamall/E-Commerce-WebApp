@@ -22,9 +22,6 @@ This project is a full-stack e-commerce web application built using the .NET fra
 ## Features
 - **User Authentication**: Register, login, and manage user profiles.
 - **Product Management**: Add, update, delete, and view products.
-- **Shopping Cart**: Add/remove items, update quantities, and checkout.
-- **Payment Integration**: Secure payment processing via a third-party API (e.g., Stripe, PayPal).
-- **Order History**: View past orders and track their status.
 - **Admin Panel**: Manage users, products, and orders.
 
 ---
